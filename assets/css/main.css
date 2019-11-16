@@ -2299,7 +2299,7 @@ input, select, textarea {
 				text-align: center;
 				font-size: 1.2em;
 				width: 100%;
-				padding: 1em 0 1em 0;
+				padding: 1em;
 			}
 
 				input[type="button"].large,
@@ -2417,7 +2417,7 @@ input, select, textarea {
 				}
 
 				#top p {
-					font-size: 1em;
+					font-size: 1.25em;
 				}
 
 			#contact footer {
